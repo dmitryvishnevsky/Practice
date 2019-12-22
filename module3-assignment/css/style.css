@@ -1,0 +1,40 @@
+
+.navbar{
+    background-color: grey !important;
+}
+.navbar-nav{
+    text-align: center;
+}
+.navbar-collapse{
+    background-color: white;
+}
+@media(min-width: 992px){
+.nav-item {
+    display: none;
+}
+}
+.brand-name{
+    font-size: 130%;
+    font-weight: bold;
+}
+.row{
+    margin-top: 20px;
+    text-align: justify;
+}
+    
+h1, h4{
+    text-align: center;
+}
+.box{
+    padding: 10px;
+    margin: 0 10px;
+    background-color: grey;
+   
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+}
+.food{
+    margin-top: 10px;
+}
